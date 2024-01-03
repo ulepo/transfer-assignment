@@ -6,3 +6,5 @@
 
 #Weaknesses
 
+1. so ohne graphical interface ist die struktur der branches per git log schon sehr unübersichtlich finde ich
+
